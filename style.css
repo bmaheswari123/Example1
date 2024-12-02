@@ -1,0 +1,14 @@
+body{
+   
+    background-image: url("Nature.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    border-radius: 10%;
+    border:1px solid blue
+}
